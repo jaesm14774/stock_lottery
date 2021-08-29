@@ -1,4 +1,4 @@
-# stock_lottery
+# [stock_lottery](https://stockluckydraw.com/stock/StockInfo.php)
 
 **目的**: 隨時掌握最新的股票申購資訊，用Line即時通知自己，為自己賺取更高的勝率(期望值)
 
